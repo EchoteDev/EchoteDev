@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EchoteDev
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Solana Development
+- 👀 I’m interested in Web Developer
+- 🌱 I’m currently learning Frontend Developer
 - 📫 How to reach me on Twitter @jamdanker
 
 <!---
